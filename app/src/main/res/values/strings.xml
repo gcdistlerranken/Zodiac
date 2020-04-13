@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zodiac</string>
+    <string name="textViewForTitle">Zodiac Sign Calculator</string>
+    <string name="editTextHintForBirthMonth">Birth Month (1-12)</string>
+    <string name="editTextHintForBirthDay">Birth Day</string>
+    <string name="editTextHintForBirthYear">Birth Year</string>
+    <string name="buttonValidate">Validate</string>
+    <string name="buttonClear">Clear</string>
+    <string name="buttonZodiac">Zodiac</string>
+    <string name="textViewTitleSign">Zodiac Sign</string>
+    <string name="buttonReturn">Return</string>
+</resources>
